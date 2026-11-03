@@ -35,8 +35,8 @@ The **Windows Cat Manager** application by **LetMeow** is designed for small but
 
 # Development
 If you want to become a developer of this application, then:
-1. Read the CONTRIBUTING.md file.
-2. Create an Issue with the template "I want to become a developer".
+1. Read the CONTRIBUTING-EN.md file.
+2. Create an Issue with the template "Я хочу стать разработчиком".
 3. Fork the repository and send your Pull Request.
 
 Current team:
