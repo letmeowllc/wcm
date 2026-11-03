@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/7e/e3/80/7ee380301277ce6959e83f27c61a80d8.png" align="right" width="20%" /> WCM
+# <img src="https://i.pinimg.com/originals/7e/e3/80/7ee380301277ce6959e83f27c61a80d8.png" align="right" width="20%" alt=""/> WCM 
 Windows Cat Manager
 
 <div align="center">
