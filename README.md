@@ -2,13 +2,13 @@
 Windows Cat Manager
 
 <div align="center">
-  <a href="/README-EN.md"><img src="https://img.shields.io/badge/English-yellow?style=for-the-badge" alt="English" /></a>
-  <a href="/README-CH.md"><img src="https://img.shields.io/badge/中文-yellow?style=for-the-badge" alt="中文" /></a>
-  <a href="/README-JP.md"><img src="https://img.shields.io/badge/日本語-yellow?style=for-the-badge" alt="日本語" /></a>
-  <a href="/README-IT.md"><img src="https://img.shields.io/badge/Italiano-yellow?style=for-the-badge" alt="Italiano" /></a>
-  <a href="/README-ES.md"><img src="https://img.shields.io/badge/Español-yellow?style=for-the-badge" alt="Español" /></a>
+  <a href="translate/README-EN.md"><img src="https://img.shields.io/badge/English-yellow?style=for-the-badge" alt="English" /></a>
+  <a href="translate/README-CH.md"><img src="https://img.shields.io/badge/中文-yellow?style=for-the-badge" alt="中文" /></a>
+  <a href="translate/README-JP.md"><img src="https://img.shields.io/badge/日本語-yellow?style=for-the-badge" alt="日本語" /></a>
+  <a href="translate/README-IT.md"><img src="https://img.shields.io/badge/Italiano-yellow?style=for-the-badge" alt="Italiano" /></a>
+  <a href="translate/README-ES.md"><img src="https://img.shields.io/badge/Español-yellow?style=for-the-badge" alt="Español" /></a>
   <br><img src="https://img.shields.io/badge/Версия-0.0.0-yellow?style=for-the-badge" alt="WCM Version" />
-  <img src="https://img.shields.io/badge/Лицензия-GPL 3.0-yellow?style=for-the-badge" alt="WCM License" />
+  <img src="https://img.shields.io/badge/Лицензия-LML 0.0.0-yellow?style=for-the-badge" alt="WCM License" />
   <img src="https://img.shields.io/github/stars/letmeowllc/wcm?style=for-the-badge&color=yellow" alt="WCM Stars" />
 </div>
 
