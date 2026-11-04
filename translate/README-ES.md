@@ -31,7 +31,7 @@ La aplicación **Windows Cat Manager** de **LetMeow** está diseñada para funci
 2. Descarga la versión con apps o sin ellas (más información en las notas de la versión).
 3. Abre el archivo zip resultante y ejecuta el archivo setup.bat **como administrador**.
 
----
+--- 
 
 # Desarrollo
 Si quieres convertirte en desarrollador de esta aplicación, entonces:
