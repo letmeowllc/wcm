@@ -2,7 +2,7 @@
 Windows Cat Manager
 
 <div align="center">
-  <a href="/translate/README.md"><img src="https://img.shields.io/badge/Русский-yellow?style=for-the-badge" alt="Русский" /></a>
+  <a href="/README.md"><img src="https://img.shields.io/badge/Русский-yellow?style=for-the-badge" alt="Русский" /></a>
   <a href="/translate/README-EN.md"><img src="https://img.shields.io/badge/English-yellow?style=for-the-badge" alt="English" /></a>
   <a href="/translate/README-CH.md"><img src="https://img.shields.io/badge/中文-yellow?style=for-the-badge" alt="中文" /></a>
   <a href="/translate/README-JP.md"><img src="https://img.shields.io/badge/日本語-yellow?style=for-the-badge" alt="日本語" /></a>
